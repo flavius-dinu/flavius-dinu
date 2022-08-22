@@ -2,7 +2,12 @@
 
 # DevOps Engineer 
 
-Passionate software engineer with over 7 years of experience having an infrastructure as code mindset and expertise on: - Software Development/Scripting (Python, Ruby, Bash, Powershell, Javascript, Golang) - DevOps Tools (Terraform, Ansible, Git, Github Actions, Chef, Packer, Docker, Kubernetes, Jenkins) - Cloud Technologies (AWS, Azure, Oracle Cloud, GCP)  * 🌍  I'm based in Bucharest
+Passionate software engineer with over 7 years of experience having an infrastructure as code mindset and expertise on: 
+- Software Development/Scripting (Python, Ruby, Bash, Powershell, Javascript, Golang) 
+- DevOps Tools (Terraform, Ansible, Git, Github Actions, Chef, Packer, Docker, Kubernetes, Jenkins) 
+- Cloud Technologies (AWS, Azure, Oracle Cloud, GCP)  
+
+🌍  I'm based in Bucharest
 
 ### Skills
 
