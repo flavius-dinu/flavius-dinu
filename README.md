@@ -26,13 +26,6 @@ Passionate software engineer with over 7 years of experience having an infrastru
 
 <a href="http://www.github.com/flavius-dinu"><img src="https://github-readme-stats.vercel.app/api?username=flavius-dinu&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="flavius-dinu's GitHub stats" /></a>
 <a href="http://www.github.com/flavius-dinu"><img src="https://activity-graph.herokuapp.com/graph?username=flavius-dinu&bg_color=1c1917&color=ffffff&line=f97316&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/flavius-dinu/oci-adoption-framework-thunder" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=flavius-dinu&repo=oci-adoption-framework-thunder&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/flavius-dinu/terraform-module-template" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=flavius-dinu&repo=terraform-module-template&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/flavius-dinu/terraform-az-aks" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=flavius-dinu&repo=terraform-az-aks&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/flavius-dinu/terraform-helm-release" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=flavius-dinu&repo=terraform-helm-release&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 ### Support Me
 
