@@ -20,13 +20,6 @@ Passionate software engineer with over 7 years of experience having an infrastru
 <a href="http://www.instagram.com/flaviuscdinu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 </p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/flavius-dinu"><img src="https://github-readme-stats.vercel.app/api?username=flavius-dinu&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="flavius-dinu's GitHub stats" /></a>
-<a href="http://www.github.com/flavius-dinu"><img src="https://activity-graph.herokuapp.com/graph?username=flavius-dinu&bg_color=1c1917&color=ffffff&line=f97316&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/flaviuscdinu"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
